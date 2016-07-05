@@ -1,0 +1,6 @@
+[submodule "Pttn-and-app-demo/semo-and"]
+	path = Pttn-and-app-demo/semo-and
+	url = https://github.com/innerfunction/semo-and
+[submodule "Pttn-and-app-demo/ATableView"]
+	path = Pttn-and-app-demo/ATableView
+	url = https://github.com/dmacosta/ATableView
